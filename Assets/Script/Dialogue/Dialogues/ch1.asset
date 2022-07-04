@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a7a4e64d3927954a9e2dcd0315e0b3c, type: 3}
+  m_Name: ch1
+  m_EditorClassIdentifier: 
+  dialogueInfo:
+  - myName: Smomo
+    portrait: {fileID: 21300000, guid: 10df231c44d8c7c4282151fa9ab6b8fa, type: 3}
+    myText: Wizard! aku ingin bertanya
+  - myName: Wizard
+    portrait: {fileID: 21300000, guid: eab04c8d53ac2854dbbf058b9eb000d8, type: 3}
+    myText: Ada apa?
+  - myName: Smomo
+    portrait: {fileID: 21300000, guid: 10df231c44d8c7c4282151fa9ab6b8fa, type: 3}
+    myText: Rokok itu apa?
+  - myName: Wizard
+    portrait: {fileID: 21300000, guid: eab04c8d53ac2854dbbf058b9eb000d8, type: 3}
+    myText: 'Rokok adalah hasil olahan tembakau yang dapat dikonsumsi dengan cara
+      dihisap setelah dibakar pada bagian ujung rokok lainnya. '
+  - myName: Smomo
+    portrait: {fileID: 21300000, guid: 10df231c44d8c7c4282151fa9ab6b8fa, type: 3}
+    myText: Asap yang kami lihat berasal dari rokok yang dihisap oleh perokok di
+      kota?
+  - myName: Wizard
+    portrait: {fileID: 21300000, guid: eab04c8d53ac2854dbbf058b9eb000d8, type: 3}
+    myText: Betul. Selain tembakau, rokok juga mengandung bahan-bahan lain.
+  - myName: Wizard
+    portrait: {fileID: 21300000, guid: eab04c8d53ac2854dbbf058b9eb000d8, type: 3}
+    myText: Seperti nikotin, tar, ammonia, karbon monoksida, dan bermacam zat-zat
+      karsinogenik.
+  - myName: Smomo
+    portrait: {fileID: 21300000, guid: 10df231c44d8c7c4282151fa9ab6b8fa, type: 3}
+    myText: Apa saja yang terkandung dalam sebatang rokok?
+  - myName: Wizard
+    portrait: {fileID: 21300000, guid: eab04c8d53ac2854dbbf058b9eb000d8, type: 3}
+    myText: Dalam sebatang rokok terkandung lebih dari 4000 jenis senyawa kimia,
+      400 zat berbahaya, dan 43 zat penyebab kanker atau karsinogenik.
+  - myName: Wizard
+    portrait: {fileID: 21300000, guid: eab04c8d53ac2854dbbf058b9eb000d8, type: 3}
+    myText: ' Rokok juga mengandung zat adiktif yang dapat menimbulkan rasa candu
+      untuk terus merokok yaitu nikotin.'
+  - myName: Wizard
+    portrait: {fileID: 21300000, guid: eab04c8d53ac2854dbbf058b9eb000d8, type: 3}
+    myText: Rokok juga mengandung tar yang merupakan zat berbahaya penyebab kanker
+      dan penyakit.
+  - myName: Wizard
+    portrait: {fileID: 21300000, guid: eab04c8d53ac2854dbbf058b9eb000d8, type: 3}
+    myText: Ada juga karbon monoksida yang merupakan gas beracun yang menurunkan
+      kadar oksigen dalam darah dan dapat memicu timbulnya penyakit.
+  - myName: Smomo
+    portrait: {fileID: 21300000, guid: 10df231c44d8c7c4282151fa9ab6b8fa, type: 3}
+    myText: Seram sekali! Sepertinya bentuk rokok yang aku lihat itu bermacam-macam.
+      Apakah jenis rokok ada bermacam-macam?
+  - myName: Wizard
+    portrait: {fileID: 21300000, guid: eab04c8d53ac2854dbbf058b9eb000d8, type: 3}
+    myText: Benar. Rokok yang mungkin paling umum kau lihat adalah rokok filter atau
+      kretek.
+  - myName: Smomo
+    portrait: {fileID: 21300000, guid: 10df231c44d8c7c4282151fa9ab6b8fa, type: 3}
+    myText: Aku pernah melihatnya, rokok yang berisi olahan tembakau yang digulung
+      dengan kertas.
+  - myName: Wizard
+    portrait: {fileID: 21300000, guid: eab04c8d53ac2854dbbf058b9eb000d8, type: 3}
+    myText: Betul, kemudian jenis lain ada cerutu berisi tembakau yang lebih murni,
+      shisha yaitu rokok arab yang dicampur aroma dan perasa khusus, rokok pipa yaitu
+      tembakau yang dimasukkan kedalam pipa, dan kini sudah mulai banyak rokok elektrik.
+  - myName: Smomo
+    portrait: {fileID: 21300000, guid: 10df231c44d8c7c4282151fa9ab6b8fa, type: 3}
+    myText: Rokok elektrik? mengapa disebut elektrik?
+  - myName: Wizard
+    portrait: {fileID: 21300000, guid: eab04c8d53ac2854dbbf058b9eb000d8, type: 3}
+    myText: 'Karena rokok elektrik tidak menggunakan ataupun membakar tembakau. Tetapi
+      mengubah cairan menjadi uap yang dihisap oleh perokok. '
+  - myName: Smomo
+    portrait: {fileID: 21300000, guid: 10df231c44d8c7c4282151fa9ab6b8fa, type: 3}
+    myText: Apakah dari jenis-jenis rokok itu, semuanya berbahaya?
+  - myName: Wizard
+    portrait: {fileID: 21300000, guid: eab04c8d53ac2854dbbf058b9eb000d8, type: 3}
+    myText: 'Ya. Rokok jenis apapun memiliki dampak negatif. '
+  - myName: Smomo
+    portrait: {fileID: 21300000, guid: 10df231c44d8c7c4282151fa9ab6b8fa, type: 3}
+    myText: Aku ingin tahu lebih banyak tentang bahaya Rokok!
+  - myName: Wizard
+    portrait: {fileID: 21300000, guid: eab04c8d53ac2854dbbf058b9eb000d8, type: 3}
+    myText: Hehe.. baiklah, belajarlah bersamaku. Dan kita lawan para minion rokok
+      itu.
+  - myName: Smomo
+    portrait: {fileID: 21300000, guid: 10df231c44d8c7c4282151fa9ab6b8fa, type: 3}
+    myText: Apakah minion rokok itu ada dimana-mana? Mereka mengganggu orang-orang
+      dengan asapnya!
+  - myName: Wizard
+    portrait: {fileID: 21300000, guid: eab04c8d53ac2854dbbf058b9eb000d8, type: 3}
+    myText: 'Ya, mereka ada dimana-mana. Setelah ini, ayo pergi ke gurun untuk melawan
+      minion rokok di sana. '
+  - myName: Wizard
+    portrait: {fileID: 21300000, guid: eab04c8d53ac2854dbbf058b9eb000d8, type: 3}
+    myText: Tapi sebelum itu.. aku akan memberimu quiz untuk memastikan kamu sudah
+      memiliki pengetahuan tentang rokok.
+  - myName: Smomo
+    portrait: {fileID: 21300000, guid: 10df231c44d8c7c4282151fa9ab6b8fa, type: 3}
+    myText: Quiz??
+  - myName: Wizard
+    portrait: {fileID: 21300000, guid: eab04c8d53ac2854dbbf058b9eb000d8, type: 3}
+    myText: Klik menu misi untuk melihat petunjuk. Kau dapat memulai quiz ketika
+      menemukan kotak material. Siap?
+  - myName: Smomo
+    portrait: {fileID: 21300000, guid: 10df231c44d8c7c4282151fa9ab6b8fa, type: 3}
+    myText: Aku siap Wizard!

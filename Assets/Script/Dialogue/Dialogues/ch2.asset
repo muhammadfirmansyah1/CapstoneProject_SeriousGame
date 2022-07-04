@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a7a4e64d3927954a9e2dcd0315e0b3c, type: 3}
+  m_Name: ch2
+  m_EditorClassIdentifier: 
+  dialogueInfo:
+  - myName: Smomo
+    portrait: {fileID: 21300000, guid: 10df231c44d8c7c4282151fa9ab6b8fa, type: 3}
+    myText: Akhirnya kita tiba di gurun.. seperti kata Wizard, minion rokok itu ada
+      dimana-mana.
+  - myName: Smomo
+    portrait: {fileID: 21300000, guid: 10df231c44d8c7c4282151fa9ab6b8fa, type: 3}
+    myText: Wizard.. apa saja dampak negatif yang dapat disebabkan asap rokok terhadap
+      tubuh manusia?
+  - myName: Wizard
+    portrait: {fileID: 21300000, guid: eab04c8d53ac2854dbbf058b9eb000d8, type: 3}
+    myText: Asap rokok yang dihirup berdampak pada munculnya berbagai gangguan kesehatan
+      diantaranya rambut rontok, katarak, kulit keriput, gangguan pendengaran, pengeroposan
+      tulang dan karies. Asap rokok juga dapat menimbulkan kanker, penyakit jantung
+      dan pembuluh darah.
+  - myName: Smomo
+    portrait: {fileID: 21300000, guid: 10df231c44d8c7c4282151fa9ab6b8fa, type: 3}
+    myText: Apa itu karies?
+  - myName: Wizard
+    portrait: {fileID: 21300000, guid: eab04c8d53ac2854dbbf058b9eb000d8, type: 3}
+    myText: Karies adalah gigi berlubang dan kekuningan yang dialami oleh hampir
+      semua perokok.
+  - myName: Smomo
+    portrait: {fileID: 21300000, guid: 10df231c44d8c7c4282151fa9ab6b8fa, type: 3}
+    myText: Kanker seperti apa yang dapat disebabkan oleh rokok?
+  - myName: Wizard
+    portrait: {fileID: 21300000, guid: eab04c8d53ac2854dbbf058b9eb000d8, type: 3}
+    myText: Jahatnya asap rokok dapat menyebabkan kanker kulit, hidung, lidah, payudara,
+      lambung, usus besar, ginjal, dan paru-paru.
+  - myName: Smomo
+    portrait: {fileID: 21300000, guid: 10df231c44d8c7c4282151fa9ab6b8fa, type: 3}
+    myText: Banyak sekali!!
+  - myName: Wizard
+    portrait: {fileID: 21300000, guid: eab04c8d53ac2854dbbf058b9eb000d8, type: 3}
+    myText: '90% dari pasien kanker paru paru adalah perokok. '
+  - myName: Smomo
+    portrait: {fileID: 21300000, guid: 10df231c44d8c7c4282151fa9ab6b8fa, type: 3}
+    myText: 'Bukankah penyakit jantung dan pembuluh darah juga sangat berbahaya? '
+  - myName: Wizard
+    portrait: {fileID: 21300000, guid: eab04c8d53ac2854dbbf058b9eb000d8, type: 3}
+    myText: Penyakit jantung pada manusia memang sulit untuk diprediksi. Namun, perokok
+      berisiko meninggal akibat serangan jantung  mendadak 4x lipat dibandingkan
+      dengan bukan perokok.
+  - myName: Smomo
+    portrait: {fileID: 21300000, guid: 10df231c44d8c7c4282151fa9ab6b8fa, type: 3}
+    myText: Apakah ketika seseorang membeli rokok, ia tahu akan bahaya-bahaya itu?
+  - myName: Wizard
+    portrait: {fileID: 21300000, guid: eab04c8d53ac2854dbbf058b9eb000d8, type: 3}
+    myText: Kini, peringatan bahaya-bahaya rokok juga tercantum pada kemasan rokok.
+  - myName: Smomo
+    portrait: {fileID: 21300000, guid: 10df231c44d8c7c4282151fa9ab6b8fa, type: 3}
+    myText: Gambar yang ada pada kemasan rokok, adalah penyakit yang disebabkan oleh
+      rokok itu sendiri!?
+  - myName: Wizard
+    portrait: {fileID: 21300000, guid: eab04c8d53ac2854dbbf058b9eb000d8, type: 3}
+    myText: Benar, gambar itu telah diletakkan sebagai salah satu upaya untuk meningkatkan
+      kesadaran masyarakat akan bahaya rokok.
+  - myName: Smomo
+    portrait: {fileID: 21300000, guid: 10df231c44d8c7c4282151fa9ab6b8fa, type: 3}
+    myText: " Penyakitnya cukup bermacam\u2026"
+  - myName: Wizard
+    portrait: {fileID: 21300000, guid: eab04c8d53ac2854dbbf058b9eb000d8, type: 3}
+    myText: ' Apakah kau ingin membantu membebaskan Wizanos dari bahaya rokok?'
+  - myName: Smomo
+    portrait: {fileID: 21300000, guid: 10df231c44d8c7c4282151fa9ab6b8fa, type: 3}
+    myText: ' Ya!! Aku ingin memberitahukan bahaya-bahaya rokok ini dan membantu
+      orang-orang untuk lebih menjaga kesehatannya.'
+  - myName: Wizard
+    portrait: {fileID: 21300000, guid: eab04c8d53ac2854dbbf058b9eb000d8, type: 3}
+    myText: ' Hehe, semangat yang bagus! Mari kita lawan para minion rokok itu! Mereka
+      masih ada di gurun dan di pantai!'
+  - myName: Smomo
+    portrait: {fileID: 21300000, guid: 10df231c44d8c7c4282151fa9ab6b8fa, type: 3}
+    myText: Oke!

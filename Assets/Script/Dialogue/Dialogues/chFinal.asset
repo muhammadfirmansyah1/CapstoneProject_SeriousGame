@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a7a4e64d3927954a9e2dcd0315e0b3c, type: 3}
+  m_Name: chFinal
+  m_EditorClassIdentifier: 
+  dialogueInfo:
+  - myName: Smomo
+    portrait: {fileID: 21300000, guid: 10df231c44d8c7c4282151fa9ab6b8fa, type: 3}
+    myText: Wizard! Usaha kita berhasil! Asap rokok di kota mulai berkurang dan orang-orang
+      mulai memiliki kesadaran mengenai bahaya rokok.
+  - myName: Wizard
+    portrait: {fileID: 21300000, guid: eab04c8d53ac2854dbbf058b9eb000d8, type: 3}
+    myText: Bagus sekali! Kau juga, jangan lupakan pelajaran kita selama ini dan
+      jaga kesehatanmu selalu!
+  - myName: Smomo
+    portrait: {fileID: 21300000, guid: 10df231c44d8c7c4282151fa9ab6b8fa, type: 3}
+    myText: 'Siaap wizard! '
+  - myName: Wizard
+    portrait: {fileID: 21300000, guid: eab04c8d53ac2854dbbf058b9eb000d8, type: 3}
+    myText: Kau dapat kembali kapanpun kau mau, Wizanos akan semakin maju. Jadikan
+      duniamu lingkungan yang kau inginkan.
+  - myName: Smomo
+    portrait: {fileID: 21300000, guid: 10df231c44d8c7c4282151fa9ab6b8fa, type: 3}
+    myText: Terima kasih wizard!
+  - myName: Wizard
+    portrait: {fileID: 21300000, guid: eab04c8d53ac2854dbbf058b9eb000d8, type: 3}
+    myText: Masuklah ke Portal Biru itu untuk mulai pergi dari Pulau ini dan menyebarkan
+      ilmu yang telah kau dapat!
+  - myName: Smomo
+    portrait: {fileID: 21300000, guid: 10df231c44d8c7c4282151fa9ab6b8fa, type: 3}
+    myText: Baik Wizard!

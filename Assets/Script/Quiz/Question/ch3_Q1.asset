@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8b3d4e53e804754796f8e6184d2a62f, type: 3}
+  m_Name: ch3_Q1
+  m_EditorClassIdentifier: 
+  question: Seseorang yang bukan perokok namun menghirup asap rokok disebut perokok...
+  answers:
+  - Perokok aktif
+  - Perokok pasif
+  - Bukan perokok
+  - Semua jawaban salah
+  correctAnswerIndex: 1
+  imageQuestion: {fileID: 21300000, guid: 3c22bff0bc4f1af48b68e15c5ada9979, type: 3}

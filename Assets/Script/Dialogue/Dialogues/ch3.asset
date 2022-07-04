@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a7a4e64d3927954a9e2dcd0315e0b3c, type: 3}
+  m_Name: ch3
+  m_EditorClassIdentifier: 
+  dialogueInfo:
+  - myName: Smomo
+    portrait: {fileID: 21300000, guid: 10df231c44d8c7c4282151fa9ab6b8fa, type: 3}
+    myText: Wizard! Wizard!
+  - myName: Wizard
+    portrait: {fileID: 21300000, guid: eab04c8d53ac2854dbbf058b9eb000d8, type: 3}
+    myText: Ada apa Smo?
+  - myName: Smomo
+    portrait: {fileID: 21300000, guid: 10df231c44d8c7c4282151fa9ab6b8fa, type: 3}
+    myText: Aku masih melihat asap rokok di hutan dan di kota...
+  - myName: Wizard
+    portrait: {fileID: 21300000, guid: eab04c8d53ac2854dbbf058b9eb000d8, type: 3}
+    myText: Apakah kau melihatnya dari dekat? Apakah kau menghirup asapnya?
+  - myName: Smomo
+    portrait: {fileID: 21300000, guid: 10df231c44d8c7c4282151fa9ab6b8fa, type: 3}
+    myText: Aku melihatnya cukup dekat, memangnya kenapa jika aku menghirup asapnya?
+      Aku kan tidak merokok.
+  - myName: Wizard
+    portrait: {fileID: 21300000, guid: eab04c8d53ac2854dbbf058b9eb000d8, type: 3}
+    myText: Biarpun bukan kau yang mengisap rokok, jika kau menghirup asap rokok
+      maka kau juga dapat terpapar bahaya rokok karena kamu telah menjadi perokok
+      pasif.
+  - myName: Smomo
+    portrait: {fileID: 21300000, guid: 10df231c44d8c7c4282151fa9ab6b8fa, type: 3}
+    myText: Apa itu perokok pasif?
+  - myName: Wizard
+    portrait: {fileID: 21300000, guid: eab04c8d53ac2854dbbf058b9eb000d8, type: 3}
+    myText: 'Perokok pasif adalah orang yang bukan perokok tetapi menghirup asap
+      rokok orang lain atau perokok aktif. '
+  - myName: Smomo
+    portrait: {fileID: 21300000, guid: 10df231c44d8c7c4282151fa9ab6b8fa, type: 3}
+    myText: Kalau perokok aktif itu berarti..?
+  - myName: Wizard
+    portrait: {fileID: 21300000, guid: eab04c8d53ac2854dbbf058b9eb000d8, type: 3}
+    myText: 'Perokok aktif adalah orang yang mengonsumsi dan mengisap rokok. '
+  - myName: Smomo
+    portrait: {fileID: 21300000, guid: 10df231c44d8c7c4282151fa9ab6b8fa, type: 3}
+    myText: "Ternyata rokok juga berbahaya untuk orang disekitar\u2026 sepertinya
+      aku harus lebih berhati-hati."
+  - myName: Wizard
+    portrait: {fileID: 21300000, guid: eab04c8d53ac2854dbbf058b9eb000d8, type: 3}
+    myText: 'Maka dari itu, penting bagi para perokok untuk memperhatikan tempat
+      ia merokok agar tidak menyebarkan bahaya asap rokoknya ke orang lain. Terutama
+      keluarga dan teman yang selalu ada disekitar. '
+  - myName: Smomo
+    portrait: {fileID: 21300000, guid: 10df231c44d8c7c4282151fa9ab6b8fa, type: 3}
+    myText: Karena merokok dapat menimbulkan dampak negatif bagi perokok itu sendiri
+      maupun orang lain disekitarnya.
+  - myName: Wizard
+    portrait: {fileID: 21300000, guid: eab04c8d53ac2854dbbf058b9eb000d8, type: 3}
+    myText: Hehe.. benar sekali. Mari kita terus mengedukasi masyarakat Wizanos mengenai
+      rokok.
+  - myName: Smomo
+    portrait: {fileID: 21300000, guid: 10df231c44d8c7c4282151fa9ab6b8fa, type: 3}
+    myText: Aku menjadi semakin semangat!!

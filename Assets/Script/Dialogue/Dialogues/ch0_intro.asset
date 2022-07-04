@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a7a4e64d3927954a9e2dcd0315e0b3c, type: 3}
+  m_Name: ch0_intro
+  m_EditorClassIdentifier: 
+  dialogueInfo:
+  - myName: 
+    portrait: {fileID: 21300000, guid: bd39ea835efbc1b4aa9f86db6afc9832, type: 3}
+    myText: 'Wizanos adalah sebuah pulau damai yang misterius dengan legenda yang
+      dimilikinya, adanya Wizard yang melindungi kedamaian Wizanos selama bertahun-tahun. '
+  - myName: 
+    portrait: {fileID: 21300000, guid: bd39ea835efbc1b4aa9f86db6afc9832, type: 3}
+    myText: Di tengah berjalannya hari, Smomo merasakan ada hal yang tidak biasa.
+  - myName: Smomo
+    portrait: {fileID: 21300000, guid: 10df231c44d8c7c4282151fa9ab6b8fa, type: 3}
+    myText: "Asap\u2026 asap apa ini? Mengapa aku menjadi semakin sering melihat
+      asap?"
+  - myName: 
+    portrait: {fileID: 21300000, guid: bd39ea835efbc1b4aa9f86db6afc9832, type: 3}
+    myText: Asap yang ditemukannya di sudut kota, di jalan, di pantai, di hutan dan
+      di beragam lokasi di Wizanos menjadi semakin mencurigakan.
+  - myName: 
+    portrait: {fileID: 21300000, guid: bd39ea835efbc1b4aa9f86db6afc9832, type: 3}
+    myText: Kemunculan asap itu tidak diketahui. Tidak ada api besar atau kebakaran,
+      juga tidak seperti kabut.
+  - myName: Smomo
+    portrait: {fileID: 21300000, guid: 10df231c44d8c7c4282151fa9ab6b8fa, type: 3}
+    myText: Aku tidak akan membiarkan asap ini membahayakan Wizanos.
+  - myName: 
+    portrait: {fileID: 21300000, guid: bd39ea835efbc1b4aa9f86db6afc9832, type: 3}
+    myText: Smomo sedang dalam perjalanannya menyelidiki asap-asap yang kian ditemui
+      dalam perjalanannya. Ia ingin menemui Wizard yang dalam legendanya dikatakan
+      memiliki kekuatan ajaib untuk membantu Smomo menyelidiki asap ini.
+  - myName: 
+    portrait: {fileID: 21300000, guid: bd39ea835efbc1b4aa9f86db6afc9832, type: 3}
+    myText: "Ditengah hutan yang mulai sunyi\u2026"
+  - myName: ???
+    portrait: {fileID: 21300000, guid: bd39ea835efbc1b4aa9f86db6afc9832, type: 3}
+    myText: Apa yang sedang kamu lakukan disini? Jika  kamu ingin merusak hutan ini,
+      maka aku tidak akan tinggal diam!
+  - myName: 
+    portrait: {fileID: 21300000, guid: bd39ea835efbc1b4aa9f86db6afc9832, type: 3}
+    myText: Smomo mendengar suara seseorang. Seperti sebuah peringatan. Namun, sumber
+      suara itu segera berbalik dan pergi.
+  - myName: 
+    portrait: {fileID: 21300000, guid: bd39ea835efbc1b4aa9f86db6afc9832, type: 3}
+    myText: Smomo mendengar suara seseorang. Seperti sebuah peringatan. Namun, sumber
+      suara itu segera berbalik dan pergi.
+  - myName: Smomo
+    portrait: {fileID: 21300000, guid: 10df231c44d8c7c4282151fa9ab6b8fa, type: 3}
+    myText: "(Apakah itu\u2026 Wizard?)"
+  - myName: Smomo
+    portrait: {fileID: 21300000, guid: 10df231c44d8c7c4282151fa9ab6b8fa, type: 3}
+    myText: Ah! Tunggu!
+  - myName: 
+    portrait: {fileID: 21300000, guid: bd39ea835efbc1b4aa9f86db6afc9832, type: 3}
+    myText: Smomo mengejar sumber suara yang kemungkinan adalah Sang Wizard

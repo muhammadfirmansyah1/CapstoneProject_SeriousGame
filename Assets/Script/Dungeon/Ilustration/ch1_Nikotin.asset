@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 957d4e71204dd2d489a37052d93910c0, type: 3}
+  m_Name: ch1_Nikotin
+  m_EditorClassIdentifier: 
+  explanation: Nikotin (C10H14N2) adalah zat adiktif yang dapat menimbulkan rasa
+    candu dan ketergantungan. Dalam dosis yang tinggi, nikotin dapat menyebabkan
+    keracunan dan berpotensi mematikan.
+  title: Nikotin
+  imageExp: {fileID: 21300000, guid: 0b568cd438fdaac4184491e72253f399, type: 3}

@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a7a4e64d3927954a9e2dcd0315e0b3c, type: 3}
+  m_Name: ch4
+  m_EditorClassIdentifier: 
+  dialogueInfo:
+  - myName: Smomo
+    portrait: {fileID: 21300000, guid: 10df231c44d8c7c4282151fa9ab6b8fa, type: 3}
+    myText: Wizard, aku ingin bertanya sesuatu lagi!
+  - myName: Wizard
+    portrait: {fileID: 21300000, guid: eab04c8d53ac2854dbbf058b9eb000d8, type: 3}
+    myText: Silahkan tanyakan saja, Smo.
+  - myName: Smomo
+    portrait: {fileID: 21300000, guid: 10df231c44d8c7c4282151fa9ab6b8fa, type: 3}
+    myText: "Rokok itu berbahaya\u2026 tetapi walaupun begitu, mengapa orang merokok?"
+  - myName: Wizard
+    portrait: {fileID: 21300000, guid: eab04c8d53ac2854dbbf058b9eb000d8, type: 3}
+    myText: Pertanyaan yang menarik. Terdapat beberapa faktor yang mendorong untuk
+      merokok. Salah satunya adalah ingin tampil dewasa dan gaul dengan merokok.
+      Selain itu juga pengaruh sosial, ketika seseorang berada di komunitas yang
+      sedang merokok atau banyaknya teman yang merokok sehingga penasaran atau diajak
+      orang lain.
+  - myName: Smomo
+    portrait: {fileID: 21300000, guid: 10df231c44d8c7c4282151fa9ab6b8fa, type: 3}
+    myText: Begitukah.. selain itu, apa yang diperoleh mereka dari merokok?
+  - myName: Wizard
+    portrait: {fileID: 21300000, guid: eab04c8d53ac2854dbbf058b9eb000d8, type: 3}
+    myText: 'Di masyarakat terdapat persepsi bahwa rokok dapat membantu menghilangkan
+      rasa stres, rasa sepi dan jenuh, serta menenangkan pikiran. '
+  - myName: Smomo
+    portrait: {fileID: 21300000, guid: 10df231c44d8c7c4282151fa9ab6b8fa, type: 3}
+    myText: Apakah itu benar? Rokok dapat menghilangkan stres?
+  - myName: Wizard
+    portrait: {fileID: 21300000, guid: eab04c8d53ac2854dbbf058b9eb000d8, type: 3}
+    myText: 'Tidak. Telah terdapat bukti medis bahwa merokok itu tidak menenangkan.
+      Hal itu hanyalah efek sementara dari nikotin yang terkandung dalam rokok. '
+  - myName: Wizard
+    portrait: {fileID: 21300000, guid: eab04c8d53ac2854dbbf058b9eb000d8, type: 3}
+    myText: Dengan zat dopamine yang memberikan rasa tenang sesaat. Tetapi setelah
+      selesai  merokok, tentu stres pun akan kembali lagi.  Nikotin inilah zat berbahaya
+      yang menyebabkan kecanduan atau adiksi.
+  - myName: Smomo
+    portrait: {fileID: 21300000, guid: 10df231c44d8c7c4282151fa9ab6b8fa, type: 3}
+    myText: Dopamine..?
+  - myName: Wizard
+    portrait: {fileID: 21300000, guid: eab04c8d53ac2854dbbf058b9eb000d8, type: 3}
+    myText: 'Ketika merokok, nikotin masuk ke dalam tubuh dan diserap dalam darah
+      yang kemudian menuju otak. Di otak, nikotin meningkatkan pelepasan substansi
+      dopamine, zat yang memberi rasa nyaman. '
+  - myName: Smomo
+    portrait: {fileID: 21300000, guid: 10df231c44d8c7c4282151fa9ab6b8fa, type: 3}
+    myText: Apakah sulit untuk berhenti merokok?
+  - myName: Wizard
+    portrait: {fileID: 21300000, guid: eab04c8d53ac2854dbbf058b9eb000d8, type: 3}
+    myText: 'Ketika tubuh perokok telah terbiasa dengan kenikmatan nikotin dan bila
+      tidak terpenuhi, untuk mempertahankan rasa nyaman akan timbul dorongan untuk
+      merokok kembali. '
+  - myName: Smomo
+    portrait: {fileID: 21300000, guid: 10df231c44d8c7c4282151fa9ab6b8fa, type: 3}
+    myText: Karena tubuh telah terbiasa dengan kenikmatan nikotin.. Lalu bagaimana
+      kesulitan bila telah kecanduan rokok?
+  - myName: Wizard
+    portrait: {fileID: 21300000, guid: eab04c8d53ac2854dbbf058b9eb000d8, type: 3}
+    myText: Pecandu rokok ketika tidak merokok akan mengalami gejala putus nikotin
+      seperti timbulnya rasa tidak nyaman, sulit untuk konsentrasi, dan emosi yang
+      kurang stabil.
+  - myName: Smomo
+    portrait: {fileID: 21300000, guid: 10df231c44d8c7c4282151fa9ab6b8fa, type: 3}
+    myText: "Wizard\u2026 biarpun begitu, berhenti merokok itu tidak mustahil kan?"
+  - myName: Wizard
+    portrait: {fileID: 21300000, guid: eab04c8d53ac2854dbbf058b9eb000d8, type: 3}
+    myText: Tentu tidak. Dengan dukungan dan tekad yang kuat untuk menjauhi rokok,
+      siapapun dapat bebas dari merokok.
+  - myName: Smomo
+    portrait: {fileID: 21300000, guid: 10df231c44d8c7c4282151fa9ab6b8fa, type: 3}
+    myText: Bagaimana sebaiknya kita bersikap terhadap rokok dan perokok?
+  - myName: Wizard
+    portrait: {fileID: 21300000, guid: eab04c8d53ac2854dbbf058b9eb000d8, type: 3}
+    myText: Akan kujelaskan di pelajaran berikutnya, dan di pelajaran selanjutnya
+      ayo kita pergi ke kota!
+  - myName: Smomo
+    portrait: {fileID: 21300000, guid: 10df231c44d8c7c4282151fa9ab6b8fa, type: 3}
+    myText: Siap komandan!

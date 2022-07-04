@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 38dccf811b9989a43b956059f97494e4
+  - enabled: 1
+    path: Assets/Scenes/Chapters.unity
+    guid: 928fcc53a7550f44896e65dcd8b4de55
+  - enabled: 1
+    path: Assets/Scenes/Toko.unity
+    guid: b3a9cb824b3738a49852a603a7ef1705
+  - enabled: 1
+    path: Assets/Scenes/Dungeon.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Quiz-Pilgan-1.unity
+    guid: 2aec2696570e0054f9ef8111a7772052
+  - enabled: 1
+    path: Assets/Scenes/StackBuilding.unity
+    guid: 8213ba0034b712441ac7c2ad4e93324d
+  - enabled: 1
+    path: Assets/Scenes/Toko.unity
+    guid: b3a9cb824b3738a49852a603a7ef1705
+  - enabled: 1
+    path: Assets/Scenes/Quiz-Nasihat.unity
+    guid: f62296eff4505c8408ff6ad203200d39
+  - enabled: 1
+    path: Assets/Scenes/Quiz-Fact.unity
+    guid: 9d3e1c324aaa55d4d995b91e24674983
+  - enabled: 1
+    path: Assets/Scenes/Quiz-Pilgan-2.unity
+    guid: 13aadf5b01067884b965d8b1e97bae49
+  - enabled: 1
+    path: Assets/Scenes/Quiz-Pilgan-3.unity
+    guid: 55af908d76637354987ee31f5212ada4
+  m_configObjects: {}
